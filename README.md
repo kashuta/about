@@ -4,7 +4,12 @@
 - :writing_hand: I like to write code;
 - 🌱 I’m currently learning at Elbrus Bootcamp
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? - @z6020 telegramm
+
+### 📫 Contact me
+[<img align = "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][LinkedIn]
+[<img align = "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Telegram]
+
+
 
 <!---
 kashuta/kashuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
