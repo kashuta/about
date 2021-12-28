@@ -6,8 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 
 ### 📫 Contact me
-[<img align = "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][LinkedIn]
-[<img align = "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Telegram]
+[<img align = "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />]
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashuta&layout=compact)]
