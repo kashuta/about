@@ -8,8 +8,7 @@
 ### 📫 Contact me
 <img align = "left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
-
-
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashuta)
 <!---
 kashuta/kashuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
