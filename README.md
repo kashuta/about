@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/z6020)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashuta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-kashuta/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://https://twitter.com/zzoich/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zzoich/)
 
 
 ##### Languages I use
