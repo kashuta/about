@@ -2,7 +2,7 @@
 ##### Hi, I'm Artem:
 
 - 🎓 Recent full stack developer graduate from ElbrusBootCamp
-- :test_tube: Finished up my 10+ years experience in construction and now full stack developer
+- :test_tube: At 2021 finished up my 10+ years experience in construction and now full stack developer
 - 🪐 Looking forward to Mars (& the rest of space), and AI-code generating 
 
 - :mailbox: You can reach me with the links below
@@ -37,9 +37,8 @@
 
 ##### Some of my favorite open source projects
 
-[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
+[![Node](https://img.shields.io/badge/-NODE-444444?style=flat&logo=node&logoColor=D9272E)](https://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 
 ⭐️ From [Artem Kashuta](https://github.com/kashuta)
