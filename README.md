@@ -1,8 +1,8 @@
 
 ##### Hi, I'm Artem:
 
-- 🎓 Recent full stack developer graduate from ElbrusBootCamp
-- :test_tube: At 2021 finished up my 10+ years experience in construction and now full stack developer
+- 🎓 I am currently a full stack developer at beinteam. I have experience in a variety of programming languages and tools, but my real passion is for web development. I love building things from the ground up and making them look good in the process. 
+- :test_tube: At 2020 finished up my 10+ years experience in construction and now web-developer
 - 🪐 Looking forward to Mars (& the rest of space), and AI-code generating 
 
 - :mailbox: You can reach me with the links below
