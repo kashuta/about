@@ -1,8 +1,8 @@
 
-##### Hi, I'm Artem:
+##### Hi, I'm Artem,
 
 - 🎓 I am currently a full stack developer at <a href='https://beinteam.ru'>BeInTeam</a>. I have experience in a variety of programming languages and tools, but my real passion is for web development. I love building things from the ground up and making them look good in the process. 
-- 👨🏼‍💻: I'm a construction management professional with over 10 years of experience. I recently transitioned into web development and i'm loving it so far. I'm a problem solver by nature and i love being able to use my skills to build amazing things.
+- 👨🏼‍💻 I'm a construction management professional with over 10 years of experience. I recently transitioned into web development and i'm loving it so far. I'm a problem solver by nature and i love being able to use my skills to build amazing things.
 - 🪐 Looking forward to Mars (& the rest of space), and AI-code generating 
 
 - :mailbox: You can reach me with the links below
