@@ -1,7 +1,7 @@
 
 ##### Hi, I'm Artem,
 
-- 🎓 I am currently a Back-end developer at <a href='https://tentoora.com'>Tentoora</a>. I have experience in a variety of programming languages and tools, but my real passion lies in backed development, specifically in Node and databases.
+- 🎓 I am currently a Back-end developer at [GloboGames](https://www.globo.games/) I have experience in a variety of programming languages and tools, but my real passion lies in backed development, specifically in Node and databases.
 - 👨🏼‍💻 I'm a construction management professional with over 10 years of experience. I recently transitioned into web development and i'm loving it so far.
 - 😎 I'm a problem solver by nature and i love being able to use my skills to build amazing things.
 - 🪐 Looking forward to Mars (& the rest of space), and AI-code generating 
