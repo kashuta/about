@@ -1,11 +1,9 @@
-
 ##### Hi, I'm Artem,
 
-- 🎓 I am currently a Back-end developer at [Tentoora](www.tentoora.com). I have experience in a variety of programming languages and tools, but my real passion lies in backed development, specifically in Node and databases.
-- 👨🏼‍💻 I'm a construction management professional with over 10 years of experience. I recently transitioned into web development and i'm loving it so far.
-- 😎 I'm a problem solver by nature and i love being able to use my skills to build amazing things.
-- 🪐 Looking forward to Mars (& the rest of space), and AI-code generating 
-- 💶 I have also been working on a few personal projects lately, one of which is a web app that helps you track cost of living in comparsion of other countries.. 
+- 🎓 I'm currently a Back-end Developer at Dante, specializing in Node and databases. With experience in various programming languages and tools, my true passion resides in back-end development.
+- 😎 Problem-solving is in my nature, and I thrive on using my skills to build amazing things.
+- 🪐 I'm intrigued by space exploration, including the prospects of Mars, and the evolving field of AI-driven code generation.
+- 💶 Lately, I've been working on several personal projects. One of them is a web app that helps users compare the cost of living across different countries.
 
 - :mailbox: You can reach me with the links below
 
